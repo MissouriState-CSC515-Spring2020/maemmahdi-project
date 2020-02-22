@@ -1,3 +1,3 @@
 # Repository for class project
 
-Assignment 1
+This readme is a placeholder that should be replaced
