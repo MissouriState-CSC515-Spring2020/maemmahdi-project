@@ -1,0 +1,19 @@
+{
+  "name": "csc515-rollup",
+  "version": "1.0.0",
+  "description": "This readme is a placeholder that should be replaced",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MissouriState-CSC515-Spring2020/maemmahdi-project/tree/ass1"
+  },
+  "author": "Mahdi Almashhad <maemmaemmaem@yahoo.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/MissouriState-CSC515-Spring2020/maemmahdi-project/issues"
+  },
+  "homepage": "https://github.com/MissouriState-CSC515-Spring2020/maemmahdi-project#readme"
+}
